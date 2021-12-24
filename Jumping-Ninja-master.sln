@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping-Ninja-master", "Assembly-CSharp.csproj", "{FC82BDFE-06A8-5CCF-CF78-7F0460E77CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping-Ninja-master", "Assembly-CSharp-Editor.csproj", "{F15E5858-5686-5A0C-FE2E-76E5A7B28A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC82BDFE-06A8-5CCF-CF78-7F0460E77CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC82BDFE-06A8-5CCF-CF78-7F0460E77CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC82BDFE-06A8-5CCF-CF78-7F0460E77CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC82BDFE-06A8-5CCF-CF78-7F0460E77CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15E5858-5686-5A0C-FE2E-76E5A7B28A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15E5858-5686-5A0C-FE2E-76E5A7B28A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15E5858-5686-5A0C-FE2E-76E5A7B28A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15E5858-5686-5A0C-FE2E-76E5A7B28A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

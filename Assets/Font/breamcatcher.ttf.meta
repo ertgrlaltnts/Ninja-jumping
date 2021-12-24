@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7aef1c6e5fd145f45876fb9913400457
+timeCreated: 1529765992
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Breamcatcher
+  fontNames:
+  - Breamcatcher
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
